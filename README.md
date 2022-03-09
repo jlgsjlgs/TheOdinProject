@@ -1,3 +1,2 @@
-# git_test
-OdinProject test repo
-Hello Odin!
+# The Odin Project Repo
+<p>Contains all the files for TOP</p>
